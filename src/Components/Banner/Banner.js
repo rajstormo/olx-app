@@ -30,7 +30,7 @@ function Banner() {
           <div className="otherQuickOptions">
             <span onClick={()=>setCategory("Computers & Laptops")} >Computers & Laptops</span>
             <span onClick={()=>setCategory("Mobile Phones")} >Mobile Phones</span>
-            <span onClick={()=>setCategory("Electrical Appliances")}>Electrical Applicances</option>
+            <span onClick={()=>setCategory("Electrical Appliances")}>Electrical Applicances </span>
             <span onClick={()=>setCategory("Tablets")} >Tablets</span>
           </div>
         </div>
